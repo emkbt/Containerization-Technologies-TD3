@@ -1,6 +1,7 @@
 # Containerization Technologies TD3 - Python Number Guessing Game
 
 A project by Emma Kilbertus DIA5
+
 A simple Python number guessing game containerized with Docker.
 
 ## Getting Started
