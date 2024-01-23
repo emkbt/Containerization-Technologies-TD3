@@ -16,7 +16,3 @@ A simple Python number guessing game containerized with Docker.
 3. Run the Docker container:
    ```bash
    docker run -it python-number
-   
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/emmakber/python-number.git
